@@ -1,7 +1,7 @@
 package linkedList;
  
  
-
+//this is a tst
 public interface LinkedList {
 	public Boolean isItemInList(String thisItem);
 		// true if it is, false if not

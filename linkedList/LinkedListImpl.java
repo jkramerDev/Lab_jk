@@ -2,6 +2,8 @@ package linkedList;
 
 public class LinkedListImpl implements LinkedList {
 
+	//i am a hairy comment
+	
 	@Override
 	public Boolean isItemInList(String thisItem) {
 		// TODO Auto-generated method stub

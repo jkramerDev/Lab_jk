@@ -1,6 +1,6 @@
 package linkedList;
  
- 
+// baaaaaahhhhh   dont do this
 //this is a tst
 public interface LinkedList {
 	public Boolean isItemInList(String thisItem);
